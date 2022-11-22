@@ -1,0 +1,3 @@
+C:/Study/Job applications/IMC/YezhouLiu/Test 2/build/CMakeFiles/IMC.dir
+C:/Study/Job applications/IMC/YezhouLiu/Test 2/build/CMakeFiles/ALL_BUILD.dir
+C:/Study/Job applications/IMC/YezhouLiu/Test 2/build/CMakeFiles/ZERO_CHECK.dir

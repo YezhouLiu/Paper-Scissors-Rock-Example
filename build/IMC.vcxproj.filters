@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\source\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\source\player.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\source\pcplayer.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\source\humanplayer.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\source\game.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\source\engine.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\header\player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\header\pcplayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\header\humanplayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\header\game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\header\engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Study\Job applications\IMC\YezhouLiu\Test 2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A16F6673-40CC-314D-96D6-E9D0AC87D3A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4AFF067F-69B9-3E87-B1A3-8DB9693E2FA8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

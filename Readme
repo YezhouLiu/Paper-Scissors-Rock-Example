@@ -1,0 +1,32 @@
+A Paper Scissors Rock example.
+
+This project provides a simple example of the Visitor design pattern.
+A recent version of Cmake is recommended(VERSION 3.16 or higher).
+Since std::numbers::pi is used (rather than M_PI), C++20 is recommended.
+
+(I) Build the project:
+
+	Windows:
+	Method 1:
+	(1) open command line, cd to the project folder (where CMakeLists.txt locates)
+	(2) run command: cmake -S . -B build
+	(3) run command: cmake --build build --clean-first
+	Method 2:
+	(1) double click the "win_build.bat" file under the project folder
+
+	Linux: (if there is no privilege to open the .sh file, please apply chmod command to the .sh file, for example: chmod 777 filename)
+	(1) open bash, cd to the project folder (where CMakeLists.txt locates)
+	(2) run command: ./build.sh
+
+(II) Run the project (after successfully built the project):
+
+	Windows:
+	Method 1:
+	(1) open command line, cd to the project folder (where CMakeLists.txt locates)
+	(2) run command: build\debug\IMC
+	Method 2:
+	(1) double click the "win_run.bat" file under the project folder
+
+	Linux:
+	(1) open bash, cd to the project folder (where CMakeLists.txt locates) -- if its already opened then no need to reopen it
+	(2) run command: ./run.sh
